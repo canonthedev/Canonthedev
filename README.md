@@ -62,12 +62,11 @@ A passionate Web3 developer and computer science student at Lead City University
 </p>
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofileoluwalowo&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mofileoluwalowo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canonthedev&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canonthedev&show_icons=true&theme=dark)
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mofileoluwalowo) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mofileoluwalowo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/canonweb3)
 
 Let's build the decentralized future together! 🌍 
 
