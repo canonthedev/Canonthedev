@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mofileoluwalowo Akinkuolie
+<!--# Hi 👋, I'm Mofileoluwalowo Akinkuolie
 
 A Computer Science student at Lead City University, Ibadan, Nigeria, with a passion for Web3, decentralized applications (dApps), and full-stack development.
 
@@ -36,8 +36,9 @@ A Computer Science student at Lead City University, Ibadan, Nigeria, with a pass
 
 ---
 Looking to connect, collaborate, and build the future of Web3. Let's create something amazing together! 🚀
+-->
 
-<!--
+
 # Hi 👋, I'm Mofileoluwalowo Akinkuolie
 
 A passionate Web3 developer and computer science student at Lead City University, Nigeria, with a strong foundation in decentralized applications (dApps), blockchain development, and full-stack web development.
@@ -69,7 +70,7 @@ A passionate Web3 developer and computer science student at Lead City University
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mofileoluwalowo)
 
 Let's build the decentralized future together! 🌍 
--->
+
 
 <!--
 **canonthedev/Canonthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
